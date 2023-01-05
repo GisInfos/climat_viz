@@ -36,7 +36,7 @@ temp_lines <- tibble(
   labels = c("1.5\u00B0C", "2.0\u00B0C")
 )
 
-month_label <- tibble(
+month_labels <- tibble(
   x = 1:12,
   labels = month.abb,
   y = 2.7
